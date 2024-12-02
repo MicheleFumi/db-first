@@ -1,0 +1,20 @@
+## AUTOX
+
+# TABLE STRUCTURE
+ - ID 
+ - VIN
+ - BRAND
+ - MODEL
+ - TRIM
+ - YEAR
+ - TYPE
+ - DOORS
+ - FUEL
+ - MILEAGE 
+ - COLOR
+ - SPEC DESCRIPTION 
+ - PRICE
+ - KNOWN ISSUES 
+
+
+
